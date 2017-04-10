@@ -1,1 +1,79 @@
-hi
+@font-face {
+    font-family: 'Action Man Bold';
+    src: url('fonts/action_man_bold_italic-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+	font-family:'Action Man Bold', sans-serif;
+}
+
+body { 
+	background-color: blue;
+	font-family: 'Action Man bold', serif;
+	padding: 0;
+	margin: 0;
+ }
+a {
+	text-decoration: none;
+	padding: 10px;
+}
+img{
+  max-width: 100%;
+}
+
+h1 {
+    color: #fff;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 50px;
+}
+
+h2 {
+  color: #018E2E;
+  text-align: center;
+}
+
+
+
+p {
+    font-size: 20px;
+}
+.portfolio-wrap {
+	background-color:white;
+	padding: 20px;
+}
+.about-me-wrap{
+	background-color:white;
+	padding: 40px;
+	
+}
+.image-wrap {
+  width: 45%;
+  float: left;
+}
+.text-wrap {
+  width: 40%;
+  padding-left: 5%;
+  float: left;
+}s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
